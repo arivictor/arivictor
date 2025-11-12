@@ -2,9 +2,9 @@
 
 Co-Founder, Chief Engineer @ [VoltMind](https://voltmind.ai) ⚡🧠  
 
-I reduce complexity.  
-I look for the essential.  
-I build what works.  
+reduce complexity.  
+look for the essential.  
+build what works.  
 
 ---
 
