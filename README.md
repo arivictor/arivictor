@@ -1,19 +1,17 @@
 # Ari
 
-Co-Founder, Chief Engineer @ [VoltMind](https://voltmind.ai) ⚡🧠  
+Co-Founder, Chief Engineer at [VoltMind](https://voltmind.ai)
 
-reduce complexity.  
+_reduce complexity.  
 look for the essential.  
-build what works.  
+build what works._  
 
 ---
 
-### Work
-- ⚡ [VoltMind](https://voltmind.ai)  
-  A system to see the grid. To move with it. To keep it whole.  
+[VoltMind](https://voltmind.ai)  
+A system to see the grid. To move with it. To keep it efficient.  
 
 ---
 
-### Contact
-- 💬 [linkedin.com/in/arilaverty](https://linkedin.com/in/arilaverty)  
-- 📧 [hello@arilaverty.com](mailto:hello@arilaverty.com)  
+[linkedin.com/in/arilaverty](https://linkedin.com/in/arilaverty)  
+[hello@arilaverty.com](mailto:hello@arilaverty.com)  
