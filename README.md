@@ -1,10 +1,14 @@
-# Ari
+# Ari Victor
 
-_reduce complexity.  
-look for the essential.  
-build what works._  
+Go. Python. Security.
+
+Simple things, held together well.
+
+[Intentional Code](https://intentionalcode.com) · [GoMark](https://gomark.dev)
+
+> _"A complex system that works is invariably found to have evolved from a simple system that worked."_ ~ Gall's Law
 
 ---
 
-[linkedin.com/in/arilaverty](https://linkedin.com/in/arilaverty)  
-[hello@arilaverty.com](mailto:hello@arilaverty.com)  
+* hello@arilaverty.com
+* [linkedin.com/in/arilaverty](https://linkedin.com/in/arilaverty)
